@@ -2,13 +2,13 @@
 HP Elitebook 1030 G2 X360-Hackingtosh [SUCCESS] 
 
 Laptop Specs
-Processor - Core i5-7200U 2.71GHz [Upto 3.09GHz] Dual Core
-Graphics  - Intel HD Graphics 620 
-Screen    - 13.3" Touchscreen Wacom Display 
-Trackpad  - Alps Smart Trackpad 
-Camera    - HP HD Camera & HP IR Camera
-Microphone- Inbuilt by B&0 
-Speakers  - Bang & Olufsen [4 way Speakers] Layout ALC 21
+- Processor - Core i5-7200U 2.71GHz [Upto 3.09GHz] Dual Core
+- Graphics  - Intel HD Graphics 620 
+- Screen    - 13.3" Touchscreen Wacom Display 
+- Trackpad  - Alps Smart Trackpad 
+- Camera    - HP HD Camera & HP IR Camera
+- Microphone- Inbuilt by B&0 
+- Speakers  - Bang & Olufsen [4 way Speakers] Layout ALC 21
 
 
 Whats Working
