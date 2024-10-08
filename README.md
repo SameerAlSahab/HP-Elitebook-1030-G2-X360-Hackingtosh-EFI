@@ -40,7 +40,8 @@ HP Elitebook 1030 G2 X360-Hackingtosh [SUCCESS]
 - 3.5 mm Headphone Jack [As i use USB C Headphone]
   
 # How to Install
-Use Gen SMBIOS to generate UUID , SMBIOS , ROM [MacBookPro14,1]
+Use Gen SMBIOS to generate UUID , SMBIOS , ROM [MacBookPro14,1] on EFI config.plist 
+Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format disk with APFS GUID Partition]
 
 # BIOS Settings
 - TPM Disable
