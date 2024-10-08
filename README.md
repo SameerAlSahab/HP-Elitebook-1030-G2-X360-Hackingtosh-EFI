@@ -1,4 +1,4 @@
-![Screenshot 2024-10-01 at 5 27 47 AM](https://github.com/user-attachments/assets/c20504b6-b2d2-41ea-9288-e4d4a1e64325)# HP-Elitebook-1030-G2-X360-Hackingtosh-EFI
+# HP-Elitebook-1030-G2-X360-Hackingtosh-EFI
 HP Elitebook 1030 G2 X360-Hackingtosh [SUCCESS] 
 
 Laptop Specs
