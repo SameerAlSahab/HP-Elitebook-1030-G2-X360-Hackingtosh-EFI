@@ -64,7 +64,13 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
 ![Screenshot 2024-10-01 at 4 27 53 AM](https://github.com/user-attachments/assets/fc8a0434-cc7e-4312-a755-671f2e11ac59)
 
 # Credits 
-- Apple for macOS.
-- Acidanthera for most of the kexts.
-- RehabMan for some ACPI patches.
-- IntelOpenWireless for Airportitwlm and Bluetooth
+
+- [Apple](https://www.apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for most of the kexts.
+- [RehabMan](https://github.com/RehabMan) for some ACPI patches.
+- [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm) for Wifi & Bluetooth
+- And ofc other Developers who are developing and involved in Hackingtosh
+
+  Tags
+  HP Elitebook 1030 G2 Hackingtosh EFI
+  HP Elitebook 1030 G2 MacOS 
