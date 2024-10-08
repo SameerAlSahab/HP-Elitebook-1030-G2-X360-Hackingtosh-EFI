@@ -38,8 +38,9 @@ Whats not working
 Not Tested
 - SIM Card and other Unknown Useless Ports 
 - 3.5 mm Headphone Jack [As i use USB C Headphone]
-- 
-  MacOS Versions Tested
+  
+
+MacOS Versions Tested
   BigSur , Ventura and Sequioa [VENTURA Recommended]
 
 Screenshots
@@ -48,3 +49,9 @@ Screenshots
 ![Screenshot 2024-10-01 at 5 27 47 AM](https://github.com/user-attachments/assets/b57cecd6-8635-4ba2-8629-32d3d08385c8)
 ![Screenshot 2024-10-01 at 5 28 43 AM](https://github.com/user-attachments/assets/18f4234f-91c0-4571-9313-e87ffe02734e)
 ![Screenshot 2024-10-01 at 4 27 53 AM](https://github.com/user-attachments/assets/fc8a0434-cc7e-4312-a755-671f2e11ac59)
+
+Credits 
+Apple for macOS.
+Acidanthera for most of the kexts.
+RehabMan for some ACPI patches.
+IntelOpenWireless for Airportitwlm and Bluetooth
