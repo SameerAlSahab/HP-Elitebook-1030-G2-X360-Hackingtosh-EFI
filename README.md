@@ -1,13 +1,13 @@
 # HP-Elitebook-1030-G2-X360-Hackingtosh-EFI
 HP Elitebook 1030 G2 X360-Hackingtosh [SUCCESS] 
 
-Laptop Specs
+# Laptop Specs
 - Processor - Core i5-7200U 2.71GHz [Upto 3.09GHz] Dual Core
 - Graphics  - Intel HD Graphics 620 
 - Screen    - 13.3" Touchscreen Wacom Display 
 - Trackpad  - Alps Smart Trackpad 
 - Camera    - HP HD Camera & HP IR Camera
-- Microphone- Inbuilt by B&0 
+- Microphone- HP High Defination Microphone
 - Speakers  - Bang & Olufsen [4 way Speakers] Layout ALC 21
 
 
@@ -21,7 +21,7 @@ Laptop Specs
 - Microphone
 - Touchscreen
 - Trackpad upto 2 finger gestures only
-- Intel WIFI
+- Intel WIFI Adapter
 - HDMI with External Display upto 120hz Refresh Rate
 - Battery [ Upto 8 hours SOT] & Correct Percentage
 - Smooth Performance [Can be compared with Macbook 2015-2016]
@@ -33,7 +33,7 @@ Laptop Specs
 - Sleep
 
 # Whats not working
-- FingerPrint Scanner
+- Fingerprint Scanner
 
 # Not Tested
 - SIM Card and other Unknown Useless Ports 
@@ -51,7 +51,7 @@ Use Gen SMBIOS to generate UUID , SMBIOS , ROM [MacBookPro14,1]
 - Fast Boot off
 - HP Smart Card Power Savings off
 - Make sure WLAN, Bluetooth & Touchscreen is on
-- 
+  
 # MacOS Versions Tested
   BigSur , Ventura and Sequioa [VENTURA Recommended]
 
