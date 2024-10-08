@@ -39,7 +39,19 @@ Laptop Specs
 - SIM Card and other Unknown Useless Ports 
 - 3.5 mm Headphone Jack [As i use USB C Headphone]
   
+# How to Install
+Use Gen SMBIOS to generate UUID , SMBIOS , ROM [MacBookPro14,1]
 
+# BIOS Settings
+- TPM Disable
+- Secure Boot & Legacy Boot Disable
+- Intel SGX Disable
+- Integrated GPU Memory -- 64 MB
+- Fast Charge off
+- Fast Boot off
+- HP Smart Card Power Savings off
+- Make sure WLAN, Bluetooth & Touchscreen is on
+- 
 # MacOS Versions Tested
   BigSur , Ventura and Sequioa [VENTURA Recommended]
 
