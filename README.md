@@ -11,7 +11,7 @@ Laptop Specs
 - Speakers  - Bang & Olufsen [4 way Speakers] Layout ALC 21
 
 
-Whats Working
+#Whats Working
 - Brightness Controls with keyboard buttons
 - Sound with keys working
 - Bluetooth Working fine
@@ -32,7 +32,7 @@ Whats Working
 - Shutdown , Reboot
 - Sleep
 
-Whats not working
+#Whats not working
 - FingerPrint Scanner
 
 Not Tested
@@ -43,7 +43,7 @@ Not Tested
 MacOS Versions Tested
   BigSur , Ventura and Sequioa [VENTURA Recommended]
 
-Screenshots
+#Screenshots
   ![Screenshot 2024-10-01 at 3 51 49 AM](https://github.com/user-attachments/assets/086f8561-3989-46ab-adfb-b8f0fad9b3f6)
   
 ![Screenshot 2024-10-01 at 5 27 47 AM](https://github.com/user-attachments/assets/b57cecd6-8635-4ba2-8629-32d3d08385c8)
@@ -51,7 +51,7 @@ Screenshots
 ![Screenshot 2024-10-01 at 4 27 53 AM](https://github.com/user-attachments/assets/fc8a0434-cc7e-4312-a755-671f2e11ac59)
 
 Credits 
-Apple for macOS.
-Acidanthera for most of the kexts.
-RehabMan for some ACPI patches.
-IntelOpenWireless for Airportitwlm and Bluetooth
+- Apple for macOS.
+- Acidanthera for most of the kexts.
+- RehabMan for some ACPI patches.
+- IntelOpenWireless for Airportitwlm and Bluetooth
