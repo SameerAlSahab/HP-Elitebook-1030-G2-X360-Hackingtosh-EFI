@@ -1,4 +1,4 @@
-# HP-Elitebook-1030-G2-X360-Hackingtosh-EFI
+![Screenshot 2024-10-01 at 5 27 47 AM](https://github.com/user-attachments/assets/c20504b6-b2d2-41ea-9288-e4d4a1e64325)# HP-Elitebook-1030-G2-X360-Hackingtosh-EFI
 HP Elitebook 1030 G2 X360-Hackingtosh [SUCCESS] 
 
 Laptop Specs
@@ -21,10 +21,10 @@ Whats Working
 - Microphone
 - Touchscreen
 - Trackpad upto 2 finger gestures only
-- Wifi Intel [Slow Speeds] in when not nearby [USB Wireless] Needed for best experience
+- Intel WIFI
 - HDMI with External Display upto 120hz Refresh Rate
 - Battery [ Upto 8 hours SOT] & Correct Percentage
-- Smooth Performance [Can be compared with Macbook 2015-2016
+- Smooth Performance [Can be compared with Macbook 2015-2016]
 - GPU with proper Accleration
 - Keyboard with all keys working
 - Every External USB functions work fine
@@ -32,6 +32,19 @@ Whats Working
 - Shutdown , Reboot
 - Sleep
 
-Whats not working 
+Whats not working
 - FingerPrint Scanner
+
+Not Tested
+- SIM Card and other Unknown Useless Ports 
+- 3.5 mm Headphone Jack [As i use USB C Headphone]
+- 
+  MacOS Versions Tested
+  BigSur , Ventura and Sequioa [VENTURA Recommended]
+
+Screenshots
+  ![Screenshot 2024-10-01 at 3 51 49 AM](https://github.com/user-attachments/assets/086f8561-3989-46ab-adfb-b8f0fad9b3f6)
   
+![Screenshot 2024-10-01 at 5 27 47 AM](https://github.com/user-attachments/assets/b57cecd6-8635-4ba2-8629-32d3d08385c8)
+![Screenshot 2024-10-01 at 5 28 43 AM](https://github.com/user-attachments/assets/18f4234f-91c0-4571-9313-e87ffe02734e)
+![Screenshot 2024-10-01 at 4 27 53 AM](https://github.com/user-attachments/assets/fc8a0434-cc7e-4312-a755-671f2e11ac59)
