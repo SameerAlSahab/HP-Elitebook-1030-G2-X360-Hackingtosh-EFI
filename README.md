@@ -1,43 +1,42 @@
 # HP-Elitebook-1030-G2-X360-Hackingtosh-EFI
 HP Elitebook 1030 G2 X360-Hackingtosh [SUCCESS] 
+Smooth Performance [Better compared with Macbook Air 2018]
 
 # Laptop Specs
-- Processor - Core i5-7200U 2.71GHz [Upto 3.09GHz] Dual Core
+- Processor - Core i5-7200U 2.71GHz [Upto 3.09GHz] Dual Core/i7-7600U 
 - Graphics  - Intel HD Graphics 620 
 - Screen    - 13.3" Touchscreen Wacom Display 
-- Trackpad  - Alps Smart Trackpad 
+- Trackpad  - AlpsAlpine V8 (All 14 gestures working)
 - Camera    - HP HD Camera & HP IR Camera
-- Microphone- HP High Defination Microphone
-- Speakers  - Bang & Olufsen [4 way Speakers] Layout ALC 21
+- Speakers  - Conexact 8200 (Layout ALC 21,23)
 
 
 # Whats Working
-- Brightness Controls with keyboard buttons
-- Sound with keys working
-- Bluetooth Working fine
-- USB C Thunderbolt and 3 mapped perfectly
+- Wi-Fi with Handoff , AirPlay working
+- Bluetooth Working fine + even after sleep
+- Intel HD 620 (1536mb) upto 4096mb
+- Trackpad upto 14 finger gestures native
+- Stereo Speakers + 3.5 mm/AUX
+- USB C Thunderbolt
 - SD Card Reader
 - HP HD Camera and IR Camera [IR Useless]
 - Microphone
 - Touchscreen
-- Trackpad upto 2 finger gestures only
-- Intel WIFI Adapter
-- HDMI with External Display upto 120hz Refresh Rate
-- Battery [ Upto 8 hours SOT] & Correct Percentage
-- Smooth Performance [Can be compared with Macbook 2015-2016]
-- GPU with proper Accleration
+- Brightness and Sound keys
+- HDMI 1.4 with External Display upto 144hz Refresh Rate
+- Battery & Correct Percentage
 - Keyboard with all keys working
 - Every External USB functions work fine
-- USB tathering
+- Smart Card Reader
 - Shutdown , Reboot
 - Sleep
 
-# Whats not working
+# Whats not working (no Kext) 
 - Fingerprint Scanner
+- Side Volume buttons 
 
 # Not Tested
-- SIM Card and other Unknown Useless Ports 
-- 3.5 mm Headphone Jack [As i use USB C Headphone]
+- SIM Card
   
 # How to Install
 Use Gen SMBIOS to generate UUID , SMBIOS , ROM [MacBookPro14,1] on EFI config.plist 
@@ -48,13 +47,14 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
 - Secure Boot & Legacy Boot Disable
 - Intel SGX Disable
 - Integrated GPU Memory -- 64 MB
-- Fast Charge off
+- Fast Charge off/on 
 - Fast Boot off
 - HP Smart Card Power Savings off
 - Make sure WLAN, Bluetooth & Touchscreen is on
+- Deep sleep must be on for sleep management
   
 # MacOS Versions Tested
-  BigSur , Ventura and Sequioa [VENTURA Recommended]
+  Mojave , Catalina , Big Sur, Ventura , Sonoma , Sequioa
 
 # Screenshots
   ![Screenshot 2024-10-01 at 3 51 49 AM](https://github.com/user-attachments/assets/086f8561-3989-46ab-adfb-b8f0fad9b3f6)
@@ -71,6 +71,6 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
 - [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm) for Wifi & Bluetooth
 - And ofc other Developers who are developing and involved in Hackingtosh
 
-  Tags
+  Tags##
   HP Elitebook 1030 G2 Hackingtosh EFI
   HP Elitebook 1030 G2 MacOS 
