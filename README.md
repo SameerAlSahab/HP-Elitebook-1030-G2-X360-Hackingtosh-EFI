@@ -9,6 +9,7 @@ Smooth Performance [Better compared with Macbook Air 2018]
 - Trackpad  - AlpsAlpine V8 (All 14 gestures working)
 - Camera    - HP HD Camera & HP IR Camera
 - Speakers  - Conexact 8200 (Layout ALC 21,23)
+- WiFi Card - Intel Wireless 8265
 
 
 # Whats Working
