@@ -3,7 +3,7 @@ HP Elitebook 1030 G2 X360-Hackingtosh [SUCCESS]
 Smooth Performance [Better compared with Macbook Air 2018]
 
 # Laptop Specs
-- Processor - Core i5-7200U 2.71GHz [Upto 3.09GHz] Dual Core/i7-7600U 
+- Processor - Core i5-7200U 2.71GHz [Upto 3.1GHz] Dual Core/i7-7600U 
 - Graphics  - Intel HD Graphics 620 
 - Screen    - 13.3" Touchscreen Wacom Display 
 - Trackpad  - AlpsAlpine V8 (All 14 gestures working)
@@ -18,6 +18,7 @@ Smooth Performance [Better compared with Macbook Air 2018]
 - Intel HD 620 (1536mb) upto 4096mb
 - Trackpad upto 14 finger gestures native
 - Stereo Speakers + 3.5 mm/AUX
+- Intel CPU Turbo Boost + Power Management
 - USB C Thunderbolt
 - SD Card Reader
 - HP HD Camera and IR Camera [IR Useless]
@@ -33,8 +34,8 @@ Smooth Performance [Better compared with Macbook Air 2018]
 - Sleep
 
 # Whats not working (no Kext) 
-- Fingerprint Scanner
-- Side Volume buttons 
+- Fingerprint Scanner (Synaptics)
+- Side Volume buttons (Intel Virtual Button GPIO ACPI Buttons) 
 
 # Not Tested
 - SIM Card
