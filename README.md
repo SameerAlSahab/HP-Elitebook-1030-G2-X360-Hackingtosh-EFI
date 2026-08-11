@@ -48,7 +48,7 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
 - TPM Disable
 - Secure Boot & Legacy Boot Disable
 - Intel SGX Disable
-- Integrated GPU Memory -- 64 MB
+- Integrated GPU Memory -- 128 MB
 - Fast Charge off/on 
 - Fast Boot off
 - HP Smart Card Power Savings off
@@ -56,14 +56,10 @@ Use 16gb or up USB Drive to boot and install MacOS Normally [Make sure to format
 - Deep sleep must be on for sleep management
   
 # MacOS Versions Tested
-  Mojave , Catalina , Big Sur, Ventura , Sonoma , Sequioa
+  Mojave , Catalina , Big Sur, Ventura , Sonoma , Sequioa, Tahoe
 
 # Screenshots
   ![Screenshot 2024-10-01 at 3 51 49 AM](https://github.com/user-attachments/assets/086f8561-3989-46ab-adfb-b8f0fad9b3f6)
-  
-![Screenshot 2024-10-01 at 5 27 47 AM](https://github.com/user-attachments/assets/b57cecd6-8635-4ba2-8629-32d3d08385c8)
-![Screenshot 2024-10-01 at 5 28 43 AM](https://github.com/user-attachments/assets/18f4234f-91c0-4571-9313-e87ffe02734e)
-![Screenshot 2024-10-01 at 4 27 53 AM](https://github.com/user-attachments/assets/fc8a0434-cc7e-4312-a755-671f2e11ac59)
 
 # Credits 
 
