@@ -1,9 +1,9 @@
 # HP-Elitebook-1030-G2-X360-Hackingtosh-EFI
 HP Elitebook 1030 G2 X360-Hackingtosh [SUCCESS] 
-Smooth Performance [Better compared with Macbook Air 2018]
+Smooth Performance [Better compared with Macbook Air 2019]
 
 # Laptop Specs
-- Processor - Core i5-7200U 2.71GHz [Upto 3.1GHz] Dual Core/i7-7600U 
+- Processor - Core i5-7200U 2.71GHz [Upto 3.1GHz] Dual Core/ i7-7600U / 7th gen variants 
 - Graphics  - Intel HD Graphics 620 
 - Screen    - 13.3" Touchscreen Wacom Display 
 - Trackpad  - AlpsAlpine V8 (All 14 gestures working)
@@ -37,6 +37,10 @@ Smooth Performance [Better compared with Macbook Air 2018]
 - Fingerprint Scanner (Synaptics)
 - Side Volume buttons (Intel Virtual Button GPIO ACPI Buttons) 
 
+# Issues
+- SD Card Reader sometimes not work (randomly + after sleep), same for Thunderbolt (randomly works)
+- All speakers work but sound is lower than Windows (not a big issue!, provides enough decent sound)
+  
 # Not Tested
 - SIM Card
   
